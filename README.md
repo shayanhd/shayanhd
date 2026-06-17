@@ -36,5 +36,5 @@ My long-term goal is to pursue a Master's degree in Germany and work on practica
 
 ## Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/shayan-hadian-287ba0301
+* LinkedIn: https://www.linkedin.com/in/shayan-hadian
 * GitHub: https://github.com/shayanhd
