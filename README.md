@@ -14,17 +14,20 @@ My main interests are Artificial Intelligence, Data Science, Machine Learning, C
 ## Technical Skills
 
 **Programming:** Python, C++, JavaScript
+
 **Web Development:** HTML, CSS, WordPress
+
 **Core CS:** Data Structures, Algorithms, Object-Oriented Programming, SQL
+
 **AI & Data:** Machine Learning fundamentals, Computer Vision basics
+
 **Tools:** Git, GitHub, VS Code
 
 ## Featured Projects
 
 ### Real-Time Object Detection with YOLO and Python
 
-A Python desktop application for object detection using YOLO, OpenCV, Tkinter, and Pandas.
-The application supports webcam-based detection, image upload, Persian object labels, bounding boxes, and Excel export.
+A Python desktop application for object detection using YOLO, OpenCV, Tkinter, and Pandas. The application supports webcam-based detection, image upload, Persian object labels, bounding boxes, and Excel export.
 
 ### Merge Sort Visualizer in Python
 
