@@ -1,46 +1,40 @@
-### Hi there 👋
+# Hi, I'm Shayan Hadian
 
+I am a Computer Engineering undergraduate student specializing in Software Engineering at Islamic Azad University, North Tehran Branch.
 
-follow me in instagram
+My main interests are Artificial Intelligence, Data Science, Machine Learning, Computer Vision, and Software Engineering. I am currently strengthening my foundations in Python, data structures, algorithms, databases, and practical software development.
 
-<!--
-**shayanhd/shayanhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
 
-Here are some ideas to get you started:
+* Building academic and personal projects in Python
+* Improving my knowledge of AI, Machine Learning, and Data Science
+* Developing software engineering skills through university and personal projects
+* Preparing for Master's applications in Germany in AI, Data Science, Computer Science, or Computer Engineering
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
-# 💫 About Me:
-🔭I'm currently working on t-np.online<br>🌱I'm looking to collaborate on programming Python<br>👯I'm looking for help with BlockChain Developer<br>🤔I'm currently learning AI , ML , Web3 , Blockchain , soladity<br>💬Ask me about Programming<br>📫Fun fact ,⚡Coding will soon be as important as reading<br>
+## Technical Skills
 
+**Programming:** Python, C++, JavaScript
+**Web Development:** HTML, CSS, WordPress
+**Core CS:** Data Structures, Algorithms, Object-Oriented Programming, SQL
+**AI & Data:** Machine Learning fundamentals, Computer Vision basics
+**Tools:** Git, GitHub, VS Code
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jEg6kr66) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shayanhdn_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/shayan-hadian-287ba0301) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shayanhdn_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCQ2f4MfqWae8edYZsW4EM7w) 
+## Featured Projects
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shayanhd&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shayanhd&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanhd&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Real-Time Object Detection with YOLO and Python
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shayanhd&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+A Python desktop application for object detection using YOLO, OpenCV, Tkinter, and Pandas.
+The application supports webcam-based detection, image upload, Persian object labels, bounding boxes, and Excel export.
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/shayanhd)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### Merge Sort Visualizer in Python
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+An academic algorithm project that demonstrates the Merge Sort algorithm using Python and a simple graphical interface.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shayanhd&limit=5&theme=nord&combine_all_yearly_contributions=true)
+## Academic Goal
 
+My long-term goal is to pursue a Master's degree in Germany and work on practical, data-driven software systems that combine software engineering with artificial intelligence.
 
+## Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/shayan-hadian-287ba0301
+* GitHub: https://github.com/shayanhd
