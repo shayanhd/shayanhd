@@ -33,7 +33,9 @@ Repository: https://github.com/shayanhd/realtime-object-detection-yolo-python
 
 ### Merge Sort Visualizer in Python
 
-An academic algorithm project that demonstrates the Merge Sort algorithm using Python and a simple graphical interface.
+A Python academic project that demonstrates the Merge Sort algorithm using a Tkinter graphical interface and a command-line version. The project includes a clean algorithm implementation, basic tests, and time complexity explanation.
+
+Repository: https://github.com/shayanhd/merge-sort-visualizer-python
 
 ## Academic Goal
 
