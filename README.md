@@ -27,7 +27,9 @@ My main interests are Artificial Intelligence, Data Science, Machine Learning, C
 
 ### Real-Time Object Detection with YOLO and Python
 
-A Python desktop application for object detection using YOLO, OpenCV, Tkinter, and Pandas. The application supports webcam-based detection, image upload, Persian object labels, bounding boxes, and Excel export.
+A Python desktop application for object detection using YOLO, OpenCV, Tkinter, and Pandas. The application supports webcam-based detection, image upload, Persian object labels, bounding boxes, confidence scores, and Excel export.
+
+Repository: https://github.com/shayanhd/realtime-object-detection-yolo-python
 
 ### Merge Sort Visualizer in Python
 
